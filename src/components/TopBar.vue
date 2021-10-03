@@ -33,18 +33,18 @@ export default {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  padding-top: 20px;
 }
 
 .logo {
   display: flex;
   justify-content: flex-start;
-  align-items: center;
+  align-items: baseline;
   line-height: 1;
-  margin-top: 20px;
 
   .nonce {
     font-family: 'Blox';
-    font-size: 50px;
+    font-size: 85px;
   }
 
   .geek-studio {
