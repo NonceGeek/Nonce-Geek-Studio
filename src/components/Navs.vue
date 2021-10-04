@@ -17,6 +17,11 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+@font-face {
+  font-family: 'Minecraft';
+  src: url('~@/assets/fonts/Minecraft.ttf');
+}
+
 .navs {
   display: flex;
   justify-content: space-between;
@@ -25,6 +30,7 @@ export default {
   padding-top: 20px;
 
   .nav {
+    font-family: 'Minecraft';
     font-size: 20px;
     color: inherit;
 
