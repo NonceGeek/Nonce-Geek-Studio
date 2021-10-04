@@ -24,10 +24,10 @@ const routes = [
     meta: { title: 'Web3.0 dApp Camp' },
   },
   {
-    path: '/builders',
-    name: 'Builders',
-    component: () => import('@/views/Builders.vue'),
-    meta: { title: 'Builders' },
+    path: '/buidlers',
+    name: 'Buidlers',
+    component: () => import('@/views/Buidlers.vue'),
+    meta: { title: 'Buidlers' },
   },
   {
     path: '/supporters',
