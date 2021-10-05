@@ -35,6 +35,12 @@ const routes = [
     component: () => import('@/views/Supporters.vue'),
     meta: { title: 'Supporters' },
   },
+  {
+    path: '/contact',
+    name: 'Contact',
+    component: () => import('@/views/Contact.vue'),
+    meta: { title: 'Contact' },
+  },
 ];
 
 const router = new VueRouter({
