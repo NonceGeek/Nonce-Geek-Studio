@@ -1,13 +1,12 @@
 <template>
-  <div class="buidlers">
-    <div>buidlers</div>
+  <div class="about">
+    <div>About US</div>
   </div>
 </template>
 
 <script>
-
 export default {
-  name: 'Buidlers',
+  name: 'About',
 };
 </script>
 
