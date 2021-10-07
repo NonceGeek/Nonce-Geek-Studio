@@ -4,10 +4,10 @@
       <div class="nonce">NoNcE</div>
       <div class="geek-studio">GEEK STUDIO</div>
     </div>
-    <div class="modes">
+    <!-- <div class="modes">
       <span>☀️</span>
       <span>🌙</span>
-    </div>
+    </div> -->
   </div>
 </template>
 

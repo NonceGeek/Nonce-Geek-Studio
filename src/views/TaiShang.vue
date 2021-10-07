@@ -12,13 +12,13 @@
         :title="project.name"
         hoverable
       >
-        <img class="logo" :src="project.logo" alt="">
+        <!-- <img class="logo" :src="project.logo" alt=""> -->
         <span class="intro">{{ project.intro }}</span>
-        <span class="website">
+        <!-- <span class="website">
           Wesite: <a :href="project.website">{{ project.website }}</a>
-        </span>
+        </span> -->
         <span class="repo">
-          Repo: <a :href="project.repo">{{ project.repo }}</a>
+          Repo: <a :href="project.repo">{{ project.name }}</a>
         </span>
       </a-card>
     </div>
@@ -31,19 +31,19 @@ export default {
   data() {
     return {
       header: {
-        main: 'Project 0x01 TaiShang Lootverse',
-        sub: 'An Abstract Word…………',
+        main: 'Project 0x01 TaiShangVerse',
+        sub: '基于DID 与 NFT 的太上 Web 3.0 世界',
       },
       projects: [
+        // {
+        //   name: 'Tai-Shang',
+        //   logo: 'https://via.placeholder.com/150',
+        //   intro: '太上老君，基于 Elixir 的 NFT 炼丹炉',
+        //   website: 'https://taishang.leeduckgo.com/',
+        //   repo: 'https://github.com/WeLightProject/Tai-Shang',
+        // },
         {
-          name: 'Tai-Shang',
-          logo: 'https://via.placeholder.com/150',
-          intro: '太上老君，基于 Elixir 的 NFT 炼丹炉',
-          website: 'https://taishang.leeduckgo.com/',
-          repo: 'https://github.com/WeLightProject/Tai-Shang',
-        },
-        {
-          name: 'WeLight Blockchain OS',
+          name: 'WeLight-Blockchain-OS',
           logo: 'https://via.placeholder.com/150',
           intro: '微芒虚拟区块链操作系统',
           website: 'https://github.com/WeLightProject/WeLightBlockchainOS',
@@ -52,7 +52,7 @@ export default {
         {
           name: 'Tai-Shang-NFT-Wallet',
           logo: 'https://via.placeholder.com/150',
-          intro: 'The First One TaiShang NFT Wallet.',
+          intro: '为下一代 NFT 范式服务的 NFT 钱包',
           website: 'https://bewater.leeduckgo.com/',
           repo: 'https://github.com/WeLightProject/Tai-Shang-NFT-Wallet',
         },
@@ -76,6 +76,8 @@ export default {
   .main {
     font-size: 30px;
     font-weight: bolder;
+    font-family: 'Minecraft';
+    src: url('~@/assets/fonts/Minecraft.ttf');
   }
 
   .sub {

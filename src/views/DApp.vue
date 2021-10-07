@@ -1,6 +1,6 @@
 <template>
   <div class="dapp">
-    <div>dapp</div>
+    Coming Soon……
   </div>
 </template>
 
@@ -12,4 +12,11 @@ export default {
 </script>
 
 <style lang="scss" scoped>
+  .dapp {
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Minecraft';
+    src: url('~@/assets/fonts/Minecraft.ttf');
+  }
 </style>

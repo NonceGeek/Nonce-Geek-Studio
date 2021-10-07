@@ -29,12 +29,12 @@ const routes = [
     component: () => import('@/views/Buidlers.vue'),
     meta: { title: 'Buidlers' },
   },
-  {
-    path: '/supporters',
-    name: 'Supporters',
-    component: () => import('@/views/Supporters.vue'),
-    meta: { title: 'Supporters' },
-  },
+  // {
+  //   path: '/supporters',
+  //   name: 'Supporters',
+  //   component: () => import('@/views/Supporters.vue'),
+  //   meta: { title: 'Supporters' },
+  // },
   {
     path: '/about',
     name: 'About',
