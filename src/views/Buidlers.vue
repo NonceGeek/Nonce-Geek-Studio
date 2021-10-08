@@ -105,7 +105,7 @@ export default {
             },
           ],
         },
-        
+
         {
           name: '姚溯宁',
           logo: 'avatars/yaosuning.png',
@@ -138,22 +138,22 @@ export default {
             },
           ],
         },
-        // {
-        //   name: 'WANGNINGBO',
-        //   logo: 'https://via.placeholder.com/150',
-        //   intro: 'BalaBala',
-        //   github: 'https://github.com/hqwangningbo',
-        //   articles: [
-        //     {
-        //       title: '从比特币到以太坊到波卡',
-        //       url: 'https://zhuanlan.zhihu.com/p/341318279',
-        //     },
-        //     {
-        //       title: '为什么我们需要波卡？波卡的跨链网络效应是什么？',
-        //       url: 'https://www.zvstus.com/article/news/1/75d87ffffe85571af600e15826a50000.html',
-        //     },
-        //   ],
-        // },
+        {
+          name: 'Henry Liu',
+          logo: 'avatars/henryliu.png',
+          intro: '到现在都没搞懂啥是区块链的菜鸟',
+          github: 'https://github.com/Zombieliu?tab=repositories',
+          // articles: [
+          //   {
+          //     title: '从比特币到以太坊到波卡',
+          //     url: 'https://zhuanlan.zhihu.com/p/341318279',
+          //   },
+          //   {
+          //     title: '为什么我们需要波卡？波卡的跨链网络效应是什么？',
+          //     url: 'https://www.zvstus.com/article/news/1/75d87ffffe85571af600e15826a50000.html',
+          //   },
+          // ],
+        },
         // {
         //   name: 'WANGNINGBO',
         //   logo: 'https://via.placeholder.com/150',
@@ -224,6 +224,7 @@ export default {
     margin-top: 10px;
   }
 }
+
 .buidler-list {
   margin-top: 40px;
   display: flex;
