@@ -154,6 +154,22 @@ export default {
           //   },
           // ],
         },
+        {
+          name: '叶开',
+          logo: 'avatars/yekai.png',
+          intro: '非著名区块链技术讲师',
+          github: 'https://github.com/yekai1003',
+          articles: [
+            {
+              title: '看过《斯巴达克斯》吗？里面的反派竟是密码学鼻祖',
+              url: 'https://blog.csdn.net/weixin_42175021/article/details/118500078?spm=1001.2014.3001.5501',
+            },
+            {
+              title: '比特币和区块链的基石：哈希函数',
+              url: 'https://blog.csdn.net/weixin_42175021/article/details/118500078?spm=1001.2014.3001.5501',
+            },
+          ],
+        },
         // {
         //   name: 'WANGNINGBO',
         //   logo: 'https://via.placeholder.com/150',
