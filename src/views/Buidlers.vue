@@ -92,7 +92,7 @@ export default {
         {
           name: '何伟',
           logo: 'avatars/hewei.png',
-          intro: '懂点区块链和云计算的后端开发。',
+          intro: '生命不息，学习不止。',
           github: 'https://github.com/Dream4ever',
           articles: [
             {
@@ -141,7 +141,7 @@ export default {
         {
           name: 'Henry Liu',
           logo: 'avatars/henryliu.png',
-          intro: '到现在都没搞懂啥是区块链的菜鸟',
+          intro: '到现在都没搞懂啥是区块链的菜鸟。',
           github: 'https://github.com/Zombieliu?tab=repositories',
           // articles: [
           //   {
@@ -157,7 +157,7 @@ export default {
         {
           name: '叶开',
           logo: 'avatars/yekai.png',
-          intro: '非著名区块链技术讲师',
+          intro: '非著名区块链技术讲师。',
           github: 'https://github.com/yekai1003',
           articles: [
             {
@@ -173,7 +173,7 @@ export default {
         {
           name: '蓉儿',
           logo: 'avatars/ronger.png',
-          intro: '蓉儿，生成艺术家',
+          intro: '生成艺术家。',
           github: 'https://github.com/lovelyrosa',
           articles: [
             {
