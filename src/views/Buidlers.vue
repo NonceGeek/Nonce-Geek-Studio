@@ -170,6 +170,18 @@ export default {
             },
           ],
         },
+        {
+          name: '蓉儿',
+          logo: 'avatars/ronger.png',
+          intro: '蓉儿，生成艺术家',
+          github: 'https://github.com/lovelyrosa',
+          articles: [
+            {
+              title: 'cv exhibition',
+              url: 'https://www.cryptovoxels.com/play?coords=N@10W,475S',
+            },
+          ],
+        },
         // {
         //   name: 'WANGNINGBO',
         //   logo: 'https://via.placeholder.com/150',
