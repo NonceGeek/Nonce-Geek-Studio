@@ -182,6 +182,26 @@ export default {
             },
           ],
         },
+        {
+          name: '黄杰',
+          logo: 'avatars/huangjie.png',
+          intro: '区块链编程爱好者。',
+          github: 'https://github.com/Blockchain-Key',
+          articles: [
+            {
+              title: '智能合约实例开发（1）——众筹',
+              url: 'https://blog.csdn.net/weixin_43402353/article/details/109275960',
+            },
+            {
+              title: '智能合约实例开发（2）——食品溯源',
+              url: 'https://blog.csdn.net/weixin_43402353/article/details/109409249',
+            },
+            {
+              title: '智能合约开发实例（3）——结婚证书',
+              url: 'https://blog.csdn.net/weixin_43402353/article/details/119190719',
+            },
+          ],
+        },
         // {
         //   name: 'WANGNINGBO',
         //   logo: 'https://via.placeholder.com/150',
