@@ -1,6 +1,11 @@
 <template>
   <div class="dapp">
-    Coming Soon……
+    <b>Twitter: </b>
+    <a href="https://twitter.com/Web3dAppCamp">https://twitter.com/Web3dAppCamp</a>
+    <b>Github: </b>
+    <a href="https://github.com/WeLightProject/Web3-dApp-Camp">
+      https://github.com/WeLightProject/Web3-dApp-Camp
+    </a>
   </div>
 </template>
 
