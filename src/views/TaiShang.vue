@@ -63,6 +63,13 @@ export default {
           website: 'https://github.com/WeLightProject/tai-shang-nft-parser',
           repo: 'https://github.com/WeLightProject/tai-shang-nft-parser',
         },
+        {
+          name: 'More Cooler Apps',
+          logo: 'https://via.placeholder.com/150',
+          intro: '更多更酷的应用',
+          website: 'https://github.com/WeLightProject',
+          repo: 'https://github.com/WeLightProject',
+        },
       ],
     };
   },
